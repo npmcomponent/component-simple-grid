@@ -1,0 +1,15 @@
+{
+  "name": "component-simple-grid",
+  "description": "simple responsive css grid",
+  "version": "0.0.1",
+  "keywords": [
+    "css",
+    "style",
+    "grid",
+    "responsive"
+  ],
+  "styles": [
+    "simplegrid.css"
+  ],
+  "dependencies": {}
+}
